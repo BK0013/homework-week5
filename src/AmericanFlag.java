@@ -1,0 +1,21 @@
+public class AmericanFlag {
+
+    public static void main(String[] arg){
+// below is american flag design
+        System.out.println("****** ==============================");
+        System.out.println("***** ===============================");
+        System.out.println("****** ==============================");
+        System.out.println("***** ===============================");
+        System.out.println("****** ==============================");
+        System.out.println("***** ===============================");
+        System.out.println("****** ==============================");
+        System.out.println("***** ===============================");
+        System.out.println("***** ===============================");
+        System.out.println("=====================================");
+        System.out.println("=====================================");
+        System.out.println("=====================================");
+        System.out.println("=====================================");
+        System.out.println("=====================================");
+        System.out.println("=====================================");
+    }
+}
